@@ -19,7 +19,7 @@ html{
 
   header h1 {
     text-align: center;
-    margin: -4px 0 -4px 0;
+    margin: -4px 0;
     letter-spacing: 0.15px;
   }
 
@@ -34,5 +34,40 @@ html{
   }
   .divider {
     border-bottom: 1px solid #888989;
-    margin: 2px 0 2px 0;
+    margin: 2px 0;
+  }
+
+  .large {
+    height: 10px;
+  }
+  
+  .large, .medium{
+    background-color: black;
+    border: 0;
+  }
+
+  .small-text{
+    font-size: 0.85rem;
+  }
+
+  .calories-info h2{
+    margin: 0;
+  }
+
+  .calories-info{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+  }
+
+  .left-container p{
+    font-size: 2em;
+    margin: -5px -2px;
+    font-weight: 700;
+  }
+
+  .calories-info span{
+    margin: -7px -2px;
+    font-size: 2.4em;
+    font-weight: 700;
   }
