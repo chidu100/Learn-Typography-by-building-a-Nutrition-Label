@@ -2,3 +2,4 @@
 This was a tutorial-based course that I learned on freecodecamp.org
 I made a nutrition label and also learned how to align, know how to add the margin, and padding to fit the page
 # The review of the page 
+![Nutrition page](https://github.com/chidu100/Learn-Typography-by-building-a-Nutrition-Label/assets/84296528/a1082a37-ca79-4403-8e48-fd54ac0025b6)
